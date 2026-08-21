@@ -1,0 +1,4 @@
+work/
+outputs/assets/video/*.mp4
+outputs/assets/video/*.mov
+outputs/assets/video/*.webm
